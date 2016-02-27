@@ -47,10 +47,10 @@ Mais detalhes de como contribuir e enviar Pull Requests em [GitHub Collaborating
 
 ## Changelog
 
-[Changelog aqui!](https://github.com/FernoSantiago/pageobject/CHANGELOG.md)
+[Changelog aqui!](https://github.com/FernoSantiago/pageobject/blob/master/docs/CHANGELOG.md)
 
 ## Copyright and Licença
 
-Copyright 2016 - 2016 - Fernando Santiago
+Copyright (C) 2016 - 2016 [Fernando Santiago](https://github.com/FernoSantiago)
 
 O código JAVA esta licenciado sob a Licença [GNU General Public License](http://www.gnu.org/licenses/licenses.html.en). Todos os arquivos CSS, SCSS, JS, imagens e outros não incluindo arquivos JAVA estão licenciados como [MIT](http://opensource.org/licenses/MIT) ou pela licença especificada dentro de seus arquivos.
