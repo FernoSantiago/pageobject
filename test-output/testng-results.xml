@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2016-02-27T19:41:31Z" finished-at="2016-02-27T19:41:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2016-02-27T19:41:31Z" finished-at="2016-02-27T19:41:31Z">
+      <class name="br.com.pageobject.nomepagina.NomePaginaTest">
+        <test-method status="PASS" signature="metodoExemplo()[pri:0, instance:br.com.pageobject.nomepagina.NomePaginaTest@1f37ef1]" name="metodoExemplo" duration-ms="0" started-at="2016-02-27T16:41:31Z" finished-at="2016-02-27T16:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- metodoExemplo -->
+      </class> <!-- br.com.pageobject.nomepagina.NomePaginaTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,54 +1,39 @@
 # PageObject
 
+* [GitHub](https://github.com/FernoSantiago/pageobject)
+* [Grupo PageObject no Facebook](https://)
+
 ## Descrição do Projeto
 
-Bem vindos ao PageObject, um tema base desenvolvido pelo Ferno (https://www.facebook.com/scambaw), para auxiliar no desenvolvimento ágil de testes para interface.
+Bem vindos ao PageObject, um projeto base desenvolvido por [Ferno](https://www.facebook.com/scambaw), para auxiliar no desenvolvimento de testes para interface.
 
 ## Instalação
 
-Texto... (links para a nossa wiki onde existam as explicações gerais de quase tudo)
+Informações de como instalar o projeto e funções do PageObject na [Wiki Oficial](https://github.com/FernoSantiago/pageobject/wiki)
 
-```xml
-<dependency>
-	<groupId>org.testng</groupId>
-	<artifactId>testng</artifactId>
-	<version>6.9.10</version>
-</dependency>
-```
-```xml
-<dependency>
-	<groupId>org.seleniumhq.selenium</groupId>
-	<artifactId>selenium-java</artifactId>
-	<version>2.50.1</version>
-</dependency>
-```
-```xml
-<dependency>
-	<groupId>org.seleniumhq.selenium</groupId>
-	<artifactId>selenium-chrome-driver</artifactId>
-	<version>2.52.0</version>
-</dependency>
-```
+* [Maven](https://github.com/FernoSantiago/pageobject/wiki/Maven)
+* [TestNG](https://github.com/FernoSantiago/pageobject/wiki/TestNg)
+
 
 ## Documentação
 
-Informações de como usar as classes e funções do Odin na [Wiki Oficial](https://github.com/FernoSantiago/pageobject/wiki)
+Informações de como usar as classes e funções do PageObject na [Wiki Oficial](https://github.com/FernoSantiago/pageobject/wiki)
 
 ## Suporte a plugins
 
-O pageobject suporta nativamente os plugins:
+O PageObject suporta nativamente os plugins:
 
-* [nome_item](http://endereco.com/)
-* [nome item](http://endereco.com/)
+* [nome_item](http://)
 
 ## Referências
 
-* [nome_item](http://endereco.com/)
-* [nome item](http://endereco.com/)
+* [Apache Maven Project](https://maven.apache.org/)
+* [TestNG](http://testng.org/doc/documentation-main.html)
+* [SeleniumHQ](http://www.seleniumhq.org/projects/webdriver/)
 
 ## Bugs e Sugestões
 
-O pageobject é um projeto **Open Source**. Qualquer um pode ajudar a melhorá-lo.
+O PageObject é um projeto **Open Source**. Qualquer um pode ajudar a melhorá-lo.
 
 Reporte bugs ou faça sugestões utilizando o [Issues/Fórum do Projeto](https://github.com/FernoSantiago/pageobject/issues)
 
